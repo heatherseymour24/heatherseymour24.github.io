@@ -15,8 +15,8 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/doordash-case-study-2016-marketing-analysis-heather-seymour/?trackingId=LvMVaqoDT46ycV0AfBYIOA%3D%3D)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+[<img src="doordash.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+My final write up from Data Analytics Accelerator Bootcamp where I analyzed DoorDash's marketing data from 2016. 
 
 
 ---
