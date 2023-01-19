@@ -17,8 +17,9 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 #### [DoorDash Marketing Analysis](https://www.linkedin.com/pulse/doordash-case-study-2016-marketing-analysis-heather-seymour/?trackingId=LvMVaqoDT46ycV0AfBYIOA%3D%3D)
 [<img src="images/doordash.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-case-study-2016-marketing-analysis-heather-seymour/?trackingId=LvMVaqoDT46ycV0AfBYIOA%3D%3D)
 My final write up from Data Analytics Accelerator Bootcamp where I analyzed DoorDash's marketing data from 2016.
----
 
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
